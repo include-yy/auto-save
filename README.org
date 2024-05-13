@@ -1,3 +1,5 @@
+This repo is archived moved to yyelpa/tetosave, see: https://github.com/yyelpa/tetosave
+
 *  What is tetosave?
 
 - No need to save manually, protect your fingers.
