@@ -1,4 +1,4 @@
-This repo is archived moved to yyelpa/tetosave, see: https://github.com/yyelpa/tetosave
+This repo is archived and moved to yyelpa/tetosave, see: https://github.com/yyelpa/tetosave
 
 *  What is tetosave?
 
