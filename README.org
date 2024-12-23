@@ -1,5 +1,4 @@
-This repo is archived and moved to yyelpa/tetosave, see: https://github.com/yyelpa/tetosave
-
+This repo is archived. Try to use Emacs built-in =auto-save-visited-mode=: [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Auto-Save-Files.html][Auto Save Files]]
 *  What is tetosave?
 
 - No need to save manually, protect your fingers.
